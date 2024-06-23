@@ -1,0 +1,4 @@
+﻿  Test.cpp
+D:\Project\OpenCV\OpenCVdemo\Test.cpp(263,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Project\OpenCV\OpenCVdemo\Test.cpp(298,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  OpenCVdemo.vcxproj -> D:\Project\OpenCV\OpenCVdemo\x64\Debug\OpenCVdemo.exe
